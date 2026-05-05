@@ -1,0 +1,7 @@
+1	 Ankit	 Mukesh	 Sumitra	 19	 Male	 9521667480	 Kishangarh
+2	 Pratik	 Mukesh	 Sumitra	 10	 Male	 9829220880	 Kishangarh
+3	 Anjali	 Hemaraj	 Seema	 15	 Femail	 7023404289	 HouseingboHou
+4	 Seeta	 Ram	 Geeta	 17	 Female	 1234567890	 Jaipur
+5	 rahul	 ramsukash	 anita	 19	 male	 1234567890	 kishangarhk
+6	 hariom	 hemant	 pinki	 18	 male	 2342342346	 ajmer
+7	 manish	 rajesh	 karishma	 23	 male	 7681656238	 ajmer
